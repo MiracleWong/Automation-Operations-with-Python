@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 import paramiko
 
 hostname = '192.168.125.126'
