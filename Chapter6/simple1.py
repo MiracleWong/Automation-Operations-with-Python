@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 import paramiko
 
-hostname = '192.168.125.126'
+hostname = '192.168.24.83'
+#hostname = '192.168.125.126'
 username = 'root'
 password = '123456'
 
